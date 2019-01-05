@@ -1,0 +1,21 @@
+.button_login{
+        background-color: #d32d27;
+        border          : 0px;
+        width           : 100%;
+        height          : 40px;
+        color           : white;
+        font-weight     : 100;
+        font-size       : 19px;
+        text-transform  : uppercase;
+    }
+
+.end_task_crm_button{
+	width: 45px; 
+	float: left; 
+	margin: 0px; 
+	margin-top: 4px; 
+	padding-left: 1%; 
+	background-color: black; 
+	color: white; 
+	cursor: pointer;
+}

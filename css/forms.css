@@ -1,0 +1,13 @@
+form {
+	padding: 0px 10px;
+}
+
+.input_text_login{
+        width           : 100%;
+        background-color: transparent;
+        border          : 1px solid white;
+        line-height     : 40px;
+        margin          : 10px 0px;
+        color           : white;
+        padding-left    : 10px;
+    }

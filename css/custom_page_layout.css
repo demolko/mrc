@@ -1,0 +1,39 @@
+.index_body, .not_authorized_body{
+	background-image: linear-gradient(to bottom right, #1b252c, #431515);
+}
+
+.index_container, .not_authorized_container{
+	width      : 500px; 
+	margin     : auto; 
+	font-family: sans-serif; 
+	margin-top : 12%;
+}
+
+.index_logo_div{
+	text-align: center; 
+	background-color: #d32d27;
+}
+
+.index_logo_img{
+	max-height: 34px; 
+	text-align: center; 
+	margin: 5px;
+}
+
+.index_hr{
+	clear: both; 
+	margin-top: 25px;
+}
+
+.index_remember_label{
+	color:white; 
+	text-transform: uppercase; 
+	margin: 10px 0px; 
+	float: right; 
+	font-size: 11px;
+}
+
+.index_remember_text{
+	position: relative; 
+	top: -3px;
+}
